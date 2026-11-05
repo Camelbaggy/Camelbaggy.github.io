@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.camelbaggy.ptcgp",
+    "sha256_cert_fingerprints": ["1C:72:73:FF:6C:A7:93:9B:8E:C5:AC:08:B8:3E:5A:66:FD:C6:C4:A0:6B:30:96:E2:30:47:65:D1:73:E9:20:8B"]
+  }
+}]
